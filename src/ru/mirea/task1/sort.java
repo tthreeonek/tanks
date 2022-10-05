@@ -1,8 +1,7 @@
 package ru.mirea.task1;
 import java.util.Random;
-import java.util.random.RandomGenerator;
 
-public class ex4 {
+public class sort {
     public static void main(String[] args) {
 
         System.out.println("Задание номер 4");

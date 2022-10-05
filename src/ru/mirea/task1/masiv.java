@@ -1,6 +1,6 @@
 package ru.mirea.task1;
 
-public class ex1 {
+public class masiv {
     public static void main(String[] args) {
 
         System.out.println("Задание номер 1");

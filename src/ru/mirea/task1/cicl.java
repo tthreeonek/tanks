@@ -1,6 +1,6 @@
 package ru.mirea.task1;
 
-public class ex2 {
+public class cicl {
     public static void main(String[] args) {
 
         System.out.println("Задание номер 2");

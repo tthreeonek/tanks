@@ -1,6 +1,6 @@
 package ru.mirea.task1;
 
-public class ex5{
+public class args{
     static int main(int n){
         System.out.println("Задание номер 5");
         int result = 1;
